@@ -1,0 +1,46 @@
+body {
+    background: #1E1E1E;
+    font-family: sans-serif;
+    padding: 10px;
+    margin: 0;
+}
+
+.balance-card {
+    background: #2E8BFF;
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.balance-text {
+    font-size: 16px;
+    display: block;
+}
+
+.balance-value {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.card {
+    flex: 1;
+    border-radius: 15px;
+    padding: 20px;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+.green { background: #27AE60; }
+.red { background: #C0392B; }
+.purple { background: #8E44AD; margin-bottom: 10px; }
+.blue { background: #2980B9; margin-bottom: 10px; }
+.orange { background: #F39C12; margin-bottom: 10px; }
