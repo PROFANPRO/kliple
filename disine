@@ -35,7 +35,7 @@
 
   <script>
     const tonConnect = new TonConnectSDK.TonConnect({
-      manifestUrl: 'https://ВАШ_ДОМЕН/tonconnect-manifest.json'
+      manifestUrl: 'https://raw.githubusercontent.com/PROFANPRO/kliple/refs/heads/main/Tonconnect-manifest.json'
     });
 
     async function connectWallet() {
