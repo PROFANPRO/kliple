@@ -1,7 +1,9 @@
 {
-  "url": "https://kliple.vercel.app/tonconnect-manifest.json",
+  "manifest_version": 1,
   "name": "ProfanPro MiniApp",
-  "iconUrl": "https://kliple.vercel.app/logo.png",
+  "description": "Мини-апп с TON кошельком",
+  "icon": "https://kliple.vercel.app/logo.png",
+  "url": "https://kliple.vercel.app",
   "termsOfUseUrl": "https://kliple.vercel.app/terms.html",
   "privacyPolicyUrl": "https://kliple.vercel.app/privacy.html"
 }
