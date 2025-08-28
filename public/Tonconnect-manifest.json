@@ -1,7 +1,7 @@
 {
   "url": "https://kliple.vercel.app/",
   "name": "ProfanPro MiniApp",
-  "iconUrl": "https://raw.githubusercontent.com/PROFANPRO/kliple/main/logo.png",
-  "termsOfUseUrl": "https://raw.githubusercontent.com/PROFANPRO/kliple/main/terms.html",
-  "privacyPolicyUrl": "https://raw.githubusercontent.com/PROFANPRO/kliple/main/privacy.html"
+  "iconUrl": "https://kliple.vercel.app/logo.png",
+  "termsOfUseUrl": "https://kliple.vercel.app/terms.html",
+  "privacyPolicyUrl": "https://kliple.vercel.app/privacy.html"
 }
