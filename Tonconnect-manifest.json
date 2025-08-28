@@ -1,5 +1,7 @@
 {
-  "url": "https://kliple.vercel.app/",
-  "name": "Нулевой бот",
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
+  "url": "https://profanpro.github.io",
+  "name": "ProfanPro MiniApp",
+  "iconUrl": "https://raw.githubusercontent.com/PROFANPRO/kliple/main/logo.png",
+  "termsOfUseUrl": "https://raw.githubusercontent.com/PROFANPRO/kliple/main/terms.html",
+  "privacyPolicyUrl": "https://raw.githubusercontent.com/PROFANPRO/kliple/main/privacy.html"
 }
