@@ -1,9 +1,0 @@
-{
-  "manifest_version": 1,
-  "name": "ProfanPro MiniApp",
-  "description": "Мини-апп с TON кошельком",
-  "icon": "https://kliple.vercel.app/logo.png",
-  "url": "https://kliple.vercel.app",
-  "termsOfUseUrl": "https://kliple.vercel.app/terms.html",
-  "privacyPolicyUrl": "https://kliple.vercel.app/privacy.html"
-}
