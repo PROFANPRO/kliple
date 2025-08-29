@@ -1,5 +1,5 @@
 {
-  "url": "http://localhost:5173",
+  "url": "https://kliple.vercel.app/",
   "name": "TON Connect React UI Demo",
   "iconUrl": "https://raw.githubusercontent.com/ton-connect/demo-dapp-with-react-ui/main/public/tonconnect-logo.png",
   "termsOfUseUrl": "https://example.com/terms",
